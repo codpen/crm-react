@@ -43,7 +43,7 @@ Storybook
 
 ```bash
 # Clone project
-git clone https://github.com/harryho/react-crm.git
+git clone https://github.com/codpen/react-crm.git
 
 
 # install the packages with npm
